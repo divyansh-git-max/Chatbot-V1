@@ -1,0 +1,12 @@
+flask
+pandas
+ipykernel
+tensorflow
+numpy 
+scikit-learn
+tensorboard
+torch
+streamlit
+scikeras
+bs4
+spacy
