@@ -140,6 +140,7 @@
       "ORG",
       "PERCENT",
       "PERSON",
+      "PRICE",
       "PRODUCT",
       "QUANTITY",
       "TIME",
